@@ -1,4 +1,7 @@
-
-
-<p>Time spent coding: </p>
+#### Time spent coding:
 <a href="https://wakatime.com/@10313d80-a9bb-425f-918f-b72fd8285dc4"><img src="https://wakatime.com/badge/user/10313d80-a9bb-425f-918f-b72fd8285dc4.svg?style=social" alt="Total time coded since Mar 16 2023" /></a>
+
+#### Languages I Use
+[![Languages](https://skillicons.dev/icons?i=html,css,cs,java,js,py,ts)](https://skillicons.dev)
+
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
