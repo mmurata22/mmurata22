@@ -14,7 +14,7 @@ Frontend Developer & VR/XR Engineer building human-centered technology. You can 
 -  Researched immersive tech across three Lehigh labs (NHI, SSI, RiVR)
 -  Past life: reproduced computer graphics research at Nagoya Institute of Technology, Japan
 
-#### Check out portfolio! [mmurata22.github.io](https://mmurata22.github.io)
+#### Check out my portfolio! [mmurata22.github.io](https://mmurata22.github.io)
 
 <br>
 
