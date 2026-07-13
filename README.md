@@ -3,6 +3,21 @@
 <h3> Time spent coding: </h3>
 <a href="https://wakatime.com/@10313d80-a9bb-425f-918f-b72fd8285dc4"><img src="https://wakatime.com/badge/user/10313d80-a9bb-425f-918f-b72fd8285dc4.svg?style=social" alt="Total time coded since Mar 16 2023" /></a>
 
+## Hi, I'm Michele 👋
+
+Frontend Developer & VR/XR Engineer building human-centered technology. You can find me working on game development or making cool webapps. I'm into computer vision, VR, graphic design, fullstack dev, and lots of other stuff.
+
+-  CS student at Lehigh University, minor in Graphic Design
+-  Frontend: React, Next.js, TypeScript, Tailwind
+-  XR: Unity, HoloLens, Meta Quest, HTC Vive, Adobe Aero
+-  Also dabble in computer vision & ML (OpenCV, TensorFlow/PyTorch) and tech entrepreneurship
+-  Researched immersive tech across three Lehigh labs (NHI, SSI, RiVR)
+-  Past life: reproduced computer graphics research at Nagoya Institute of Technology, Japan
+
+#### Check out portfolio! [mmurata22.github.io](https://mmurata22.github.io)
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/mmurata22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mmurata22" height="30" width="40" /></a>
