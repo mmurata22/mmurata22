@@ -3,5 +3,3 @@
 
 #### Languages I Use
 [![Languages](https://skillicons.dev/icons?i=html,css,cs,java,js,py,ts)](https://skillicons.dev)
-
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
